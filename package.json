@@ -1,0 +1,12 @@
+{
+  "name": "360-intelligence-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.7.0",
+    "mongoose": "^6.6.0"
+  }
+}
